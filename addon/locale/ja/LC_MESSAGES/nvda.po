@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvdaremote 1.0\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@freelists.org'\n"
 "POT-Creation-Date: 2017-02-19 21:44+0900\n"
-"PO-Revision-Date: 2017-02-20 18:27+0900\n"
+"PO-Revision-Date: 2017-02-20 20:35+0900\n"
 "Last-Translator: Takuya Nishimoto <nishimotz@gmail.com>\n"
 "Language-Team: Takuya Nishimoto <nishimotz@gmail.com>\n"
 "Language: ja\n"
@@ -277,16 +277,16 @@ msgstr "ポートと鍵を入力してください"
 #. Translators: A checkbox in add-on options dialog to set whether remote server is started when NVDA starts.
 #: addon\globalPlugins\remoteClient\dialogs.py:170
 msgid "Auto-connect to control server on startup"
-msgstr "起動時にサーバーに自動的に接続"
+msgstr "起動時にサーバーに自動的に接続(&A)"
 
 #. Translators: Whether or not to use a relay server when autoconnecting
 #: addon\globalPlugins\remoteClient\dialogs.py:174
 msgid "Use Remote Control Server"
-msgstr "リモート制御サーバーを使用"
+msgstr "外部のサーバーを使用(&U)"
 
 #: addon\globalPlugins\remoteClient\dialogs.py:174
 msgid "Host Control Server"
-msgstr "ホスト制御サーバー"
+msgstr "このコンピューターをサーバーにする(&H)"
 
 #. translators: Message for version mismatch
 #: addon\globalPlugins\remoteClient\session.py:26
